@@ -1,2 +1,2 @@
 # Python
-My Beginnings of learning Python
+My beginnings of learning Python.
